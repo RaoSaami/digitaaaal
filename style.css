@@ -318,9 +318,10 @@ p {
 	z-index: -1;
 }
 #services .service-bottom .icon {
-	height: 80px;
-	width: 80px;
+	height: 120px;
+	width: 200px;
 	margin-bottom: 20px;
+	align-self: center;
 }
 #services .service-item h2 {
 	font-size: 2rem;
